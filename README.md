@@ -4,8 +4,8 @@
 
 **Automation & AI Explorer | Sales Strategist Turned Tech Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaela-musilova-mm)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musilova.mihule@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaela-musilova-mm)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:musilova.mihule@gmail.com)
 
 </div>
 
@@ -26,11 +26,11 @@ Automation isn't about replacing humans; it's about giving us back our **time, c
 
 ## 🚀 What I Do
 
-🧠 **Automation & AI Specialist** – I design workflows that turn complex business operations into seamless, automated systems.
+- 🧠 **Automation & AI Specialist** – I design workflows that turn complex business operations into seamless, automated systems.
 
-🔌 **Bridge Between Worlds** – I translate business needs into technical solutions (and vice versa).
+- 🔌 **Bridge Between Worlds** – I translate business needs into technical solutions (and vice versa).
 
-🌍 **Explorer** – I experiment with tools, APIs, and AI to understand what's possible and push those boundaries further.
+- 🌍 **Explorer** – I experiment with tools, APIs, and AI to understand what's possible and push those boundaries further.
 
 I'm passionate about designing solutions that simplify processes, eliminate repetitive tasks, and unlock new opportunities — because that's how businesses stay ahead.
 
@@ -38,7 +38,7 @@ I'm passionate about designing solutions that simplify processes, eliminate repe
 
 ## 🔥 Currently Working On
 
-> **💡 Tip:** This section is updated regularly to reflect my latest projects and learning focus
+> 💡 **Tip:** This section is updated regularly to reflect my latest projects and learning focus
 
 - 🎯 Building **automation-portfolio** repository with production-ready workflows
 - 🧪 Experimenting with **AI-powered business process automation**
@@ -49,63 +49,28 @@ I'm passionate about designing solutions that simplify processes, eliminate repe
 
 ---
 
-<!-- PLACEHOLDER: Quick Stats - Add this section once you have multiple projects uploaded -->
-<!--
-## 📊 Quick Stats
-
-```text
-🚀 Production Automations:     X
-🧪 Active Experiments:         X
-🤖 AI Integrations Built:      X
-📚 Documented Use Cases:       X
-```
--->
-
-<!-- PLACEHOLDER: Featured Projects - Add this section once automation-portfolio is populated -->
-<!--
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| [**Project Name**](link) | Description | Tools | ![Badge](badge) |
-
-[➡️ View All Projects](https://github.com/Valky187/automation-portfolio)
--->
-
----
-
 ## ⚙️ Tech Stack & Tools
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
 ### 🔌 Automation Platforms
-![Make](https://img.shields.io/badge/Make-4285F4?style=flat&logo=integromat&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-4285F4?style=for-the-badge&logo=integromat&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 ### 🤖 AI & LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-181818?style=flat&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
-
-</td>
-<td valign="top" width="33%">
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 
 ### 📊 Business Systems
-![Pipedrive](https://img.shields.io/badge/Pipedrive-1A1A1A?style=flat)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
-![Brevo](https://img.shields.io/badge/Brevo-0B996E?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Pipedrive](https://img.shields.io/badge/Pipedrive-1A1A1A?style=for-the-badge)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Brevo](https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</td>
-</tr>
-</table>
+</div>
 
 ### 🧠 Core Skills
 - Process mapping & workflow design  
@@ -152,10 +117,13 @@ If you believe technology should **empower people — not enslave them —** we'
 **Looking for collaboration on automation, AI, or innovative business solutions?**
 
 I'm always open to connecting with:
-- 🚀 Fellow automation builders & innovators
-- 🧠 AI enthusiasts & experimenters
-- 💼 Business leaders exploring tech transformation
-- 🎓 Learners & knowledge sharers
+
+🚀 Fellow automation builders & innovators  
+🧠 AI enthusiasts & experimenters  
+💼 Business leaders exploring tech transformation  
+🎓 Learners & knowledge sharers
+
+<br>
 
 **[📧 Get in touch](mailto:musilova.mihule@gmail.com) | [💼 Connect on LinkedIn](https://www.linkedin.com/in/michaela-musilova-mm)**
 
@@ -166,32 +134,3 @@ I'm always open to connecting with:
 <div align="center">
 <sub>⚡ Powered by curiosity, built with determination, automated with passion</sub>
 </div>
-
----
-
-<!-- 
-═══════════════════════════════════════════════════════════════════
-                    📝 INSTRUCTIONS FOR UPDATING
-═══════════════════════════════════════════════════════════════════
-
-🔄 HOW TO UPDATE "CURRENTLY WORKING ON" SECTION:
-   1. Edit this file (click pencil icon on GitHub)
-   2. Find the "Currently Working On" section
-   3. Update the bullet points with your current focus
-   4. Change the "Last updated" date
-   5. Commit changes
-   ⏰ Recommended: Update monthly or when starting new projects
-
-📊 HOW TO ENABLE QUICK STATS (when ready):
-   1. Uncomment the "Quick Stats" section (remove <!-- and -->)
-   2. Replace X with actual numbers
-   3. Update regularly as you add projects
-
-🌟 HOW TO ENABLE FEATURED PROJECTS (when ready):
-   1. Uncomment the "Featured Projects" section
-   2. Add your projects to the table
-   3. Link to your automation-portfolio repository
-   4. Use status badges from: https://shields.io/
-
-═══════════════════════════════════════════════════════════════════
--->
